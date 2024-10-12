@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://sajayepuke.pages.dev/sitemap.xml
